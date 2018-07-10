@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "It is a node practice web page for Meda",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NydiaGuo/node.git"
+  },
+  "author": "Ni Guo (Nydia)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NydiaGuo/node/issues"
+  },
+  "homepage": "https://github.com/NydiaGuo/node#readme",
+  "dependencies": {
+    "node-modules": "^1.0.1"
+  }
+}
